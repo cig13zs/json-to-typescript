@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Json-to-typescript \u2014 Generate clean TypeScript interfaces and",
+  "name": "Json To Typescript",
   "version": "1.0.0",
   "description": "Generate clean TypeScript interfaces and types from JSON payloads offline.",
   "icons": {
@@ -11,6 +11,6 @@
   "permissions": [],
   "action": {
     "default_popup": "popup.html",
-    "default_title": "Json-to-typescript"
+    "default_title": "Json To Typescript"
   }
 }
