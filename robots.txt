@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cig13zs.github.io/json-to-typescript/sitemap.xml
