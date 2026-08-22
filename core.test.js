@@ -6,8 +6,8 @@ const data = {
   title: "Build agent",
   completed: false,
   author: {
-    name: "Lorence",
-    email: "lorence@test.local"
+    name: "Casey",
+    email: "casey@example.test"
   },
   tags: ["code", "ai"]
 };
